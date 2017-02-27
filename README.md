@@ -15,14 +15,14 @@
 
 ## 使用方法
 ### 载入 CSS 文件
-```html
+```CSS
 <link rel="stylesheet" type="text/css" href="css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="css/viewer.min.css">
 <link rel="stylesheet" type="text/css" href="css/mobie.css"/>
 ```
 
 ### DOM底部载入 JavaScript 文件
-```html
+```JavaScript
 <script type="text/javascript" src="js/common.js"></script>
 <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
 <script type="text/javascript" src="js/viewer-jquery.min.js"></script>
