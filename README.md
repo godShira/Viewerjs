@@ -10,3 +10,6 @@ pc端效果如下图所示：
 <p align="center">
   <img src="img/sketch_03.jpg" alt="效果图">
 </p>
+<p align="center">
+  <img src="img/sketch_04.jpg" alt="效果图">
+</p>
