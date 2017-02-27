@@ -26,11 +26,6 @@
 <script type="text/javascript" src="js/common.js"></script>
 <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
 <script type="text/javascript" src="js/viewer-jquery.min.js"></script>
-<script type="text/javascript" >
-        $('#dowebok').viewer({
-            url: 'data-original'
-        });
-</script>
 ```
 
 ### DOM 结构
@@ -46,6 +41,12 @@
     <li class="item"><img data-original="img/tibet-8.jpg" src="img/tibet-8.jpg" alt="Namtso 1"></li>
     <li class="item"><img data-original="img/tibet-9.jpg" src="img/tibet-9.jpg" alt="Namtso 2"></li>
 </ul>
+```
+###调用 Viewer
+```javascript
+ $('#dowebok').viewer({
+    url: 'data-original'
+ });
 ```
 
 
