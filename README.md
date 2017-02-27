@@ -12,15 +12,16 @@
 - 支持缩略图
 - 支持标题显示
 - 支持多种自定义事件
-##使用方法
-###载入 CSS 文件
+
+## 使用方法
+### 载入 CSS 文件
 ```html
 <link rel="stylesheet" type="text/css" href="css/reset.css"/>
 <link rel="stylesheet" type="text/css" href="css/viewer.min.css">
 <link rel="stylesheet" type="text/css" href="css/mobie.css"/>
 ```
 
-###DOM底部载入 JavaScript 文件
+### DOM底部载入 JavaScript 文件
 ```html
 <script type="text/javascript" src="js/common.js"></script>
 <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
@@ -32,7 +33,7 @@
 </script>
 ```
 
-###DOM 结构
+### DOM 结构
 ```html
 <ul class="images clearfix" id="dowebok">
     <li class="item"><img data-original="img/tibet-1.jpg" src="img/tibet-1.jpg" alt="Cuo Na湖"></li>
