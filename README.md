@@ -42,7 +42,7 @@
     <li class="item"><img data-original="img/tibet-9.jpg" src="img/tibet-9.jpg" alt="Namtso 2"></li>
 </ul>
 ```
-###调用 Viewer
+### 调用 Viewer
 ```javascript
  $('#dowebok').viewer({
     url: 'data-original'
