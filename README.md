@@ -83,20 +83,20 @@
 | viewed | 函数 | null | 回调函数，具体查看演示 |
 
 ## 移动端效果如下图所示：
-```html
+
 <p align="left">
   <img src="img/sketch_01.jpg" alt="效果图">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <img src="img/sketch_02.jpg" alt="效果图">
 </p>
-```
+
 ## pc端效果如下图所示：
-```html
+
 <p align="center">
   <img src="img/sketch_03.jpg" alt="效果图">
 </p>
 <p align="center">
   <img src="img/sketch_04.jpg" alt="效果图">
 </p>
-```
+
 ** [⬆ 回到顶部](#更新) **
